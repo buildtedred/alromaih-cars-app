@@ -14,7 +14,11 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
+<<<<<<< HEAD
 target 'Alromaih' do
+=======
+target 'alromaih_cars_app' do
+>>>>>>> f4585def32592b32667740560dd4d93c555d22d8
   config = use_native_modules!
 
   use_react_native!(

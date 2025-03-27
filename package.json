@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "Alromaih",
+=======
+  "name": "alromaih_cars_app",
+>>>>>>> f4585def32592b32667740560dd4d93c555d22d8
   "version": "0.0.1",
   "private": true,
   "scripts": {
